@@ -119,3 +119,26 @@ Click a span will take you to the detail view about that particular span
 Jaeger will also analyze the trace and provide the dependency graph.
 
 ![dag](docs/img/service_dependency.png)
+
+List of Microservice
+![image](https://github.com/user-attachments/assets/10502a20-6137-4633-976e-2dcd9afc14c7)
+Code Execution output
+ ![image](https://github.com/user-attachments/assets/e4b408d1-b320-41f6-a688-ed3eb4b5d0f2)
+ 
+Service List in Jaeger 
+ ![image](https://github.com/user-attachments/assets/56937e05-30ef-409b-a025-633d6ad8892b)
+
+ 
+DB Trace Details
+ ![image](https://github.com/user-attachments/assets/1e9e736c-41fd-4c71-b6f4-a97809c0d72d)
+ ![image](https://github.com/user-attachments/assets/bc375ea3-e3fa-4d31-8654-69da526c6b56)
+![image](https://github.com/user-attachments/assets/7b854566-ecd0-4808-9c8b-d33559041c4e)
+
+
+Docker Image
+![image](https://github.com/user-attachments/assets/b6d19473-02c8-4b1d-b32d-8fd18a01bfa5)
+
+ 
+Docker Container
+ 
+![image](https://github.com/user-attachments/assets/c1dc0099-220f-4d05-a15d-dd910969d504)
